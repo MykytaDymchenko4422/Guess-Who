@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Угадай кто</string>
+    <string name="start">Начать</string>
+    <string name="result">Результат</string>
+    <string name="input_name">Введи свое имя</string>
+    <string name="start_game">Начать игру</string>
+    <string name="go_to_main">Вернуться</string>
+    <string name="warning_name">Нельзя играть без имени!</string>
+</resources>

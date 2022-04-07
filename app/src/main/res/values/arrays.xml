@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>Лягушка</item>
+        <item>Змея</item>
+        <item>Ящерица</item>
+        <item>Крокодил</item>
+        <item>Лягушка</item>
+
+        <item>Обезьяна</item>
+        <item>Тигр</item>
+        <item>Леопард</item>
+        <item>Жираф</item>
+        <item>Обезьяна</item>
+
+        <item>Слон</item>
+        <item>Мышь</item>
+        <item>Зебра</item>
+        <item>Гиена</item>
+        <item>Слон</item>
+
+        <item>Белка</item>
+        <item>Опоссум</item>
+        <item>Енот</item>
+        <item>Ёж</item>
+        <item>Белка</item>
+
+        <item>Тигр</item>
+        <item>Зебра</item>
+        <item>Пантера</item>
+        <item>Гиена</item>
+        <item>Тигр</item>
+
+        <item>Волк</item>
+        <item>Заяц</item>
+        <item>Лиса</item>
+        <item>Медведь</item>
+        <item>Волк</item>
+
+        <item>Медведь</item>
+        <item>Ёж</item>
+        <item>Олень</item>
+        <item>Кабан</item>
+        <item>Медведь</item>
+
+        <item>Змея</item>
+        <item>Ящерица</item>
+        <item>Варан</item>
+        <item>Черепаха</item>
+        <item>Змея</item>
+
+        <item>Лошадь</item>
+        <item>Медведь</item>
+        <item>Жираф</item>
+        <item>Собака</item>
+        <item>Лошадь</item>
+
+        <item>Кабан</item>
+        <item>Волк</item>
+        <item>Опоссум</item>
+        <item>Лиса</item>
+        <item>Кабан</item>
+
+        <!--____________________________________________________________________________-->
+
+        <item>Голубь</item>
+        <item>Ворона</item>
+        <item>Воробей</item>
+        <item>Синица</item>
+        <item>Голубь</item>
+
+        <item>Ворона</item>
+        <item>Ласточка</item>
+        <item>Дятел</item>
+        <item>Сойка</item>
+        <item>Ворона</item>
+
+        <item>Дятел</item>
+        <item>Воробей</item>
+        <item>Кукушка</item>
+        <item>Голубь</item>
+        <item>Дятел</item>
+
+        <item>Попугай</item>
+        <item>Тукан</item>
+        <item>Сова</item>
+        <item>Ворона</item>
+        <item>Попугай</item>
+
+        <item>Соловей</item>
+        <item>Дятел</item>
+        <item>Воробей</item>
+        <item>Голубь</item>
+        <item>Соловей</item>
+
+        <item>Тукан</item>
+        <item>Попугай</item>
+        <item>Фламинго</item>
+        <item>Дятел</item>
+        <item>Тукан</item>
+
+        <item>Утка</item>
+        <item>Фламинго</item>
+        <item>Голубь</item>
+        <item>Воробей</item>
+        <item>Утка</item>
+
+        <item>Орел</item>
+        <item>Стервятник</item>
+        <item>Тукан</item>
+        <item>Попугай</item>
+        <item>Орел</item>
+
+        <item>Кукушка</item>
+        <item>Синица</item>
+        <item>Голубь</item>
+        <item>Утка</item>
+        <item>Кукушка</item>
+
+        <item>Сова</item>
+        <item>Попугай</item>
+        <item>Дятел</item>
+        <item>Соловей</item>
+        <item>Сова</item>
+
+        <!--____________________________________________________________________________-->
+
+        <item>Телефон</item>
+        <item>Часы</item>
+        <item>Телевизор</item>
+        <item>Планшет</item>
+        <item>Телефон</item>
+
+        <item>Пылесос</item>
+        <item>Блендер</item>
+        <item>Чайник</item>
+        <item>Плита</item>
+        <item>Пылесос</item>
+
+        <item>Гитара</item>
+        <item>Флейта</item>
+        <item>Барабан</item>
+        <item>Скрипка</item>
+        <item>Гитара</item>
+
+        <item>Чайник</item>
+        <item>Свисток</item>
+        <item>Утюг</item>
+        <item>Пила</item>
+        <item>Чайник</item>
+
+        <item>Барабаны</item>
+        <item>Баян</item>
+        <item>Пылесос</item>
+        <item>Будильник</item>
+        <item>Барабаны</item>
+
+        <item>Пианино</item>
+        <item>Гитара</item>
+        <item>Радио</item>
+        <item>Телефон</item>
+        <item>Пианино</item>
+
+        <item>Будильник</item>
+        <item>Трактор</item>
+        <item>Барабаны</item>
+        <item>Труба</item>
+        <item>Будильник</item>
+
+        <item>Поезд</item>
+        <item>Чайник</item>
+        <item>Машина</item>
+        <item>Самолет</item>
+        <item>Поезд</item>
+
+        <item>Машина</item>
+        <item>Телевизор</item>
+        <item>Скрипка</item>
+        <item>Автобус</item>
+        <item>Машина</item>
+
+        <item>Вертолет</item>
+        <item>Поезд</item>
+        <item>Мотоцикл</item>
+        <item>Машина</item>
+        <item>Вертолет</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable-v24/stage1_img_background.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable-v24/stage2_button_style.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable-v24/stage3_button_style.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable-v24/style_btm_stroke_black95_press_white.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/button_stroke_95_press_white.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/custom_input.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/ic_baseline_accessibility.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.166" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/ic_baseline_contactless_24.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.166" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/img_background.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/stage1_button_style.xml" value="0.2210970464135021" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/drawable/style_btm_stroke_black95.xml" value="0.264" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/layout/activity_game.xml" value="0.264" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/layout/activity_result.xml" value="0.2" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/layout/activity_select_name.xml" value="0.264" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/layout/dialog.xml" value="0.264" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/layout/row.xml" value="0.21068376068376068" />
+        <entry key="..\:/android projects/guess_who/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2210970464135021" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
