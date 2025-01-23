@@ -3,12 +3,14 @@ plugins {
 }
 
 android {
+
+    namespace "practice.ex.guess_who"
     compileSdk 31
 
     defaultConfig {
         applicationId "practice.ex.guess_who"
         minSdk 26
-        targetSdk 31
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 

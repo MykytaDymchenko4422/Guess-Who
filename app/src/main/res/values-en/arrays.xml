@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="answers">
+            <item>Frog</item>
+            <item>Snake</item>
+            <item>Lizard</item>
+            <item>Crocodile</item>
+            <item>Frog</item>
+
+            <item>Monkey</item>
+            <item>Tiger</item>
+            <item>Leopard</item>
+            <item>Giraffe</item>
+            <item>Monkey</item>
+
+            <item>Elephant</item>
+            <item>Mouse</item>
+            <item>Zebra</item>
+            <item>Hyena</item>
+            <item>Elephant</item>
+
+            <item>Squirrel</item>
+            <item>Opossum</item>
+            <item>Raccoon</item>
+            <item>Hedgehog</item>
+            <item>Squirrel</item>
+
+            <item>Tiger</item>
+            <item>Zebra</item>
+            <item>Panther</item>
+            <item>Hyena</item>
+            <item>Tiger</item>
+
+            <item>Wolf</item>
+            <item>Hare</item>
+            <item>Fox</item>
+            <item>Bear</item>
+            <item>Wolf</item>
+
+            <item>Bear</item>
+            <item>Hedgehog</item>
+            <item>Deer</item>
+            <item>Boar</item>
+            <item>Bear</item>
+
+            <item>Snake</item>
+            <item>Lizard</item>
+            <item>Monitor lizard</item>
+            <item>Turtle</item>
+            <item>Snake</item>
+
+            <item>Horse</item>
+            <item>Bear</item>
+            <item>Giraffe</item>
+            <item>Dog</item>
+            <item>Horse</item>
+
+            <item>Boar</item>
+            <item>Wolf</item>
+            <item>Opossum</item>
+            <item>Fox</item>
+            <item>Boar</item>
+
+            <!--____________________________________________________________________________-->
+
+            <item>Pigeon</item>
+            <item>Crow</item>
+            <item>Sparrow</item>
+            <item>Tit</item>
+            <item>Pigeon</item>
+
+            <item>Crow</item>
+            <item>Swallow</item>
+            <item>Woodpecker</item>
+            <item>Jay</item>
+            <item>Crow</item>
+
+            <item>Woodpecker</item>
+            <item>Sparrow</item>
+            <item>Cuckoo</item>
+            <item>Pigeon</item>
+            <item>Woodpecker</item>
+
+            <item>Parrot</item>
+            <item>Toucan</item>
+            <item>Owl</item>
+            <item>Crow</item>
+            <item>Parrot</item>
+
+            <item>Nightingale</item>
+            <item>Woodpecker</item>
+            <item>Sparrow</item>
+            <item>Pigeon</item>
+            <item>Nightingale</item>
+
+            <item>Toucan</item>
+            <item>Parrot</item>
+            <item>Flamingo</item>
+            <item>Woodpecker</item>
+            <item>Toucan</item>
+
+            <item>Duck</item>
+            <item>Flamingo</item>
+            <item>Pigeon</item>
+            <item>Sparrow</item>
+            <item>Duck</item>
+
+            <item>Eagle</item>
+            <item>Vulture</item>
+            <item>Toucan</item>
+            <item>Parrot</item>
+            <item>Eagle</item>
+
+            <item>Cuckoo</item>
+            <item>Tit</item>
+            <item>Pigeon</item>
+            <item>Duck</item>
+            <item>Cuckoo</item>
+
+            <item>Owl</item>
+            <item>Parrot</item>
+            <item>Woodpecker</item>
+            <item>Nightingale</item>
+            <item>Owl</item>
+
+            <!--____________________________________________________________________________-->
+
+            <item>Phone</item>
+            <item>Watch</item>
+            <item>TV</item>
+            <item>Tablet</item>
+            <item>Phone</item>
+
+            <item>Vacuum cleaner</item>
+            <item>Blender</item>
+            <item>Kettle</item>
+            <item>Stove</item>
+            <item>Vacuum cleaner</item>
+
+            <item>Guitar</item>
+            <item>Flute</item>
+            <item>Drum</item>
+            <item>Violin</item>
+            <item>Guitar</item>
+
+            <item>Kettle</item>
+            <item>Whistle</item>
+            <item>Iron</item>
+            <item>Saw</item>
+            <item>Kettle</item>
+
+            <item>Drums</item>
+            <item>Accordion</item>
+            <item>Vacuum cleaner</item>
+            <item>Alarm clock</item>
+            <item>Drums</item>
+
+            <item>Piano</item>
+            <item>Guitar</item>
+            <item>Radio</item>
+            <item>Phone</item>
+            <item>Piano</item>
+
+            <item>Alarm clock</item>
+            <item>Tractor</item>
+            <item>Drums</item>
+            <item>Trumpet</item>
+            <item>Alarm clock</item>
+
+            <item>Train</item>
+            <item>Kettle</item>
+            <item>Car</item>
+            <item>Airplane</item>
+            <item>Train</item>
+
+            <item>Car</item>
+            <item>TV</item>
+            <item>Violin</item>
+            <item>Bus</item>
+            <item>Car</item>
+
+            <item>Helicopter</item>
+            <item>Train</item>
+            <item>Motorcycle</item>
+            <item>Car</item>
+            <item>Helicopter</item>
+
+        </string-array>
+</resources>

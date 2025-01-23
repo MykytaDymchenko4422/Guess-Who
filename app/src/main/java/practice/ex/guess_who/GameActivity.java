@@ -178,8 +178,16 @@ public class GameActivity extends AppCompatActivity {
             dialog.setCancelable(false);// отключить закрыть окна кнопкой "Назад"
 
             dialog_result = (TextView) dialog.findViewById(R.id.result_description);
-            dialog_result.setText("Молодец "+ user_name + ", ты оветил(ла) правильно на " + count_right_answers + " из 30.\n" +
-                    "Ты можешь посмореть результаты нажав на кнопку '" + getResources().getString(R.string.go_to_main)+"'.");
+//            dialog_result.setText("Молодец "+ user_name + ", ты оветил(ла) правильно на " + count_right_answers + " из 30.\n" +
+//                    "Ты можешь посмореть результаты нажав на кнопку '" + getResources().getString(R.string.go_to_main)+"'.");
+
+            String resultText = String.format(
+                    getResources().getString(R.string.dialog_result_text),
+                    user_name,
+                    count_right_answers,
+                    getResources().getString(R.string.go_to_main)
+            );
+            dialog_result.setText(resultText);
 
             close_btn = (Button)dialog.findViewById(R.id.go_to_main);
             close_btn.setOnClickListener(new View.OnClickListener() {

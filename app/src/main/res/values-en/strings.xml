@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Guess Who</string>
+        <string name="start">Start</string>
+        <string name="result">Result</string>
+        <string name="input_name">Enter your name</string>
+        <string name="start_game">Start Game</string>
+        <string name="go_to_main">Go Back</string>
+        <string name="warning_name">You can\'t play without a name!</string>
+        <string name="dialog_result_text">Well done, %s! You answered %d out of 30 correctly.\nYou can view the results by clicking the %s button.</string>
+</resources>

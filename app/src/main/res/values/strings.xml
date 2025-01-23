@@ -6,4 +6,5 @@
     <string name="start_game">Начать игру</string>
     <string name="go_to_main">Вернуться</string>
     <string name="warning_name">Нельзя играть без имени!</string>
+    <string name="dialog_result_text">Молодец %s ты оветил(ла) правильно на %d из 30.\n Ты можешь посмореть результаты нажав на кнопку %s.</string>
 </resources>

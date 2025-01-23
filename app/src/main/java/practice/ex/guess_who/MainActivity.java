@@ -26,17 +26,14 @@ public class MainActivity extends AppCompatActivity {
         w.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
     }
 
-    public void onClick(View view){
+    public void onClick(View view) {
         Intent intent;
-        switch (view.getId()){
-            case R.id.buttonStart:
-                intent = new Intent(this, SelectNameActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.buttonResult:
-                intent = new Intent(this, ResultActivity.class);
-                startActivity(intent);
-                break;
+        if (view.getId() == R.id.buttonStart) {
+            intent = new Intent(this, SelectNameActivity.class);
+            startActivity(intent);
+        } else if (view.getId() == R.id.buttonResult) {
+            intent = new Intent(this, ResultActivity.class);
+            startActivity(intent);
         }
     }
 }
